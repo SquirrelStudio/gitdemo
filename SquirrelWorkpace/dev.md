@@ -1,1 +1,3 @@
-I do some work on dev branch 
+clean dev.md
+try second commit 
+Try three commit 
